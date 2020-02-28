@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Stephanie! 
+This is a place where I'll be holding my notes, explorations, and other generic blog posts as I continue to dive deeper into the rabbit hole.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Other places I'm at on the internet
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[http://www.stephaniefrantz.com/](http://www.stephaniefrantz.com/)
+[http://www.handsomezebra.com/](http://www.handsomezebra.com/)
