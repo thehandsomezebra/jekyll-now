@@ -10,6 +10,6 @@ This is a place where I'll be holding my notes, explorations, and blog posts as 
 
 ### Other places you can find me on the internet
 
-[http://www.stephaniefrantz.com/](http://www.stephaniefrantz.com/)
+[http://stephaniefrantz.com/](http://stephaniefrantz.com/)
 
-[http://www.handsomezebra.com/](http://www.handsomezebra.com/)
+[http://handsomezebra.com/](http://handsomezebra.com/)
