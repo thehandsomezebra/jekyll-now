@@ -20,15 +20,11 @@ This is a Bookmarklet for Chrome and may not be suitable in other browsers.  You
 1. Click "Add page..."
 1. Name: "Play 3X Speed"
 1. In the URL bar, paste this:
-
 ```
 javascript:(function(){document.getElementsByTagName("video")[0].playbackRate = 3})();
 ```
-
 1. Click Save.
-
 ![2021-02-03_19h58_12.png](../assets/2021-02-03_19h58_12.png)
-
 1. Next time you watch a youtube video, click this bookmark and it'll speed up to 3X.
 
 
