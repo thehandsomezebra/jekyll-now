@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Gotta Go Fast: Playing YouTube Videos Faster"
+tags: youtube bookmarklet chrome javascript
+categories: learning
 date: 2021-02-03T07:40:00Z
+
 ---
 
 Do you enjoy consuming your media at 3x or 4x speed and you're bummed that you can only speed up your YouTube videos up to 2x?
@@ -18,7 +21,9 @@ This is a Bookmarklet for Chrome and may not be suitable in other browsers.  You
 1. Name: "Play 3X Speed"
 1. In the URL bar, paste this:
 
-```javascript:(function(){document.getElementsByTagName("video")[0].playbackRate = 3})();```
+```
+javascript:(function(){document.getElementsByTagName("video")[0].playbackRate = 3})();
+```
 
 1. Click Save.
 
@@ -36,7 +41,9 @@ If you'd like a different variable, you can change the `playbackRate = ` number 
 If you like this idea, but you'd like a little more flexibility, you can use this code to ask for a prompt:
 
 
-```javascript:(function(){document.getElementsByTagName("video")[0].playbackRate = prompt("Please enter the speed you wish to watch the video", "1")})();```
+```
+javascript:(function(){document.getElementsByTagName("video")[0].playbackRate = prompt("Please enter the speed you wish to watch the video", "1")})();
+```
 
 
 #### Other Notes
