@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/handsomezebra
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://readthis.info
+  * I am handsomezebra (https://keybase.io/handsomezebra) on keybase.
+  * I have a public key ASDa353NiALicQehtHMAoMl16UZb8VsdBjjTq_6h73zzHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dadf9dcd8802e27107a1b47300a0c975e9465bf15b1d0638d3abfea1ef7cf31c0a",
+      "host": "keybase.io",
+      "kid": "0120dadf9dcd8802e27107a1b47300a0c975e9465bf15b1d0638d3abfea1ef7cf31c0a",
+      "uid": "c3c5ca1977e6bef34c243b02d4705419",
+      "username": "handsomezebra"
+    },
+    "merkle_root": {
+      "ctime": 1612918731,
+      "hash": "0848cd1a225aa077461ed654cf234b562f9035bbe8104dffad7ddf8c3abc1ccaefc88ea74a94ac7b8ffb65859fb8c14960fa584229946c04bfb1d8a93829334c",
+      "hash_meta": "a7ea627ac5c23f4dd0f9e4775f8b952937d000447765ea9ef82f7055d6ce4ecd",
+      "seqno": 19064840
+    },
+    "service": {
+      "entropy": "3TGKYo73TjgysgcDy2T7h0y7",
+      "hostname": "readthis.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1612918750,
+  "expire_in": 504576000,
+  "prev": "28645aa66c39f0ee9cc9f01d54d3e02c3f33d148b33da609b81730c642423256",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2t+dzYgC4nEHobRzAKDJdelGW/FbHQY406v+oe988xwKp3BheWxvYWTESpcCEMQgKGRapmw58O6cyfAdVNPgLD8z0UizPaYJuBcwxkJCMlbEIB9sf0UwABz7vFYPkcQbVZ4NOVD+nGdwxnyMZ+CnsUDEAgHCo3NpZ8RAL9Ru4EhkprUHHRJhfdZ6GVLZKWOTVvq90laqSN7Ls9d6YwCusdbnY3Bln2xMrmqHleZOR7YJkjrJlcTwxs1DBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDyFXn7BSoV3pMpnEHngyz3mOEiPDaWbebJ0BPOP4jyuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/handsomezebra
+
+==================================================================
