@@ -7,13 +7,13 @@ date: 2021-02-20T09:20:00Z
 ---
 
 
-## What is Concourse?
+What is Concourse?
 
 > Concourse is an open-source continuous thing-doer.
 
 Concourse is a CI/CD tool that is configurable with a simple YAML file.
 
-
+![screenshot3](../assets/screenshot3.png)
 
 
 ## The Walkthrough
