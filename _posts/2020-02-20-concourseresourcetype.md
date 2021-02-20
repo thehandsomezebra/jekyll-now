@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Hello World Resource Type for Concourse"
 tags: concourse concourse-ci pipelines cd-ci resource-type docker
-date: 2021-02-T11:00:00Z
+date: 2021-02-20T09:20:00Z
 
 ---
 
