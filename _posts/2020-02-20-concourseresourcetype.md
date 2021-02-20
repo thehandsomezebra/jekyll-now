@@ -6,8 +6,6 @@ date: 2021-02-20T09:20:00Z
 
 ---
 
-#Creating a Hello World Resource Type for Concourse#
-
 
 ## What is Concourse?
 
